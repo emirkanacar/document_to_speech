@@ -1,6 +1,6 @@
 {
   "name": "DocumentToSpeech",
-  "version": "1.1",
+  "version": "1.1.0",
   "description": "This app determines text in pdf and converting female sound",
   "main": "app.js",
   "scripts": {
