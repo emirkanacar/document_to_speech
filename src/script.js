@@ -24,7 +24,7 @@ ipc.on('selected-file', (event, pathN) => {
     detectFileType.fromFile(filePath, (err, res) => {
         if(err) throw (err);
 
-        if(res.ext == 'pdf')
+        if(res.ext === 'pdf')
         {
             console.log("file is pdf");
 
