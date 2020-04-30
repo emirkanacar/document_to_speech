@@ -20,7 +20,7 @@
     "detect-file-type": "^0.2.7",
     "electromon": "^1.0.10",
     "electron-packager": "^14.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mammoth": "^1.4.8",
     "mv": "^2.1.1",
     "node-gtts": "^2.0.2",
