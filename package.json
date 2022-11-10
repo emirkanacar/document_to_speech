@@ -13,7 +13,7 @@
   "author": "Emirkan Acar",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^9.4.0"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "cp-file": "^7.0.0",
